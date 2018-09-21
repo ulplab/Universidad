@@ -17,7 +17,7 @@ public class DemoGit {
     public static void main(String[] args) {
         //generemos conflicto
         System.out.println("Hola Git!");
-        //Agrego uncomentario
+        //Agrego uncomentario malo
         //que pasa aca
     }
     
